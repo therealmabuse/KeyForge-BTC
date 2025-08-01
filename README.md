@@ -1,5 +1,5 @@
 # KeyForge-BTC
-KeyForge BTC is a powerful, multi-threaded Bitcoin private key scanner that can search for addresses matching a predefined target list. It supports multiple key generation modes, including random, sequential, and BIP39 mnemonic-based searches.
+KeyForge BTC is a powerful, multi-threaded Bitcoin private key scanner that can search for addresses matching a predefined target list. It supports multiple key generation modes, including random, sequential, and BIP39 mnemonic-based searches. Works on Windows and Linux systems - but has better performance on Linux.
 
 KeyForge BTC provides a fast and efficient way to scan vast ranges of private keys.
 
