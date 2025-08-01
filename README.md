@@ -27,7 +27,7 @@ KeyForge BTC provides a fast and efficient way to scan vast ranges of private ke
 
 # 📂 Project Structure & Function Overview
 
-Core Components
+<strong>Core Components</strong>
 
 🔹 main()
 
@@ -89,9 +89,9 @@ Core Components
         Path to BIP39 wordlist (if using mnemonics)
 
 
-📌 AFTER START YOU NEED TO WAIT 45 SECONDS TO GET THE FIRST STATUS UPDATE!        
+<strong>📌 AFTER START YOU NEED TO WAIT 45 SECONDS TO GET THE FIRST STATUS UPDATE!</strong>   
 
-📂 Example Output Status
+<strong>📂 Example Output Status</strong>
 
 🟢 [Random Thread Status - Thread 3]<br>
 🔑  PrivKey: 4fce94f4ad336bad70cd2a0b8f364b750e34e6fc4dc90f905b914a19d895e700<br>
@@ -104,7 +104,7 @@ Core Components
 🔢  Total Keys: 4325839<br>
 
 
-📂 Example Output Match
+<strong>📂 Example Output Match</strong>
 
 *** MATCH FOUND! (Thread 3) ***<br>
 Address Type: P2PKH Compressed<br>
@@ -112,5 +112,5 @@ Address: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa<br>
 Private (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreAnchuDf<br>
   
 
-📜 License
+<strong>📜 License</strong>
 MIT License – Free for personal and research use.
