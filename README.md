@@ -106,10 +106,10 @@ Core Components
 
 📂 Example Output Match
 
-*** MATCH FOUND! (Thread 3) ***
-  Address Type: P2PKH Compressed
-  Address: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
-  Private (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreAnchuDf
+*** MATCH FOUND! (Thread 3) ***<br>
+Address Type: P2PKH Compressed<br>
+Address: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa<br>
+Private (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreAnchuDf<br>
   
 
 📜 License
