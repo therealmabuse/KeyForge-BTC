@@ -85,7 +85,9 @@ KeyForge BTC provides a fast and efficient way to scan vast ranges of private ke
         Key range (for sequential mode)
         Path to BIP39 wordlist (if using mnemonics)
 
-# 📌 AFTER START YOU NEED TO WAIT 45 SECONDS TO GET THE FIRST STATUS UPDATE!        
+
+📌 AFTER START YOU NEED TO WAIT 45 SECONDS TO GET THE FIRST STATUS UPDATE!        
+
 
 📂 Example Output
 
