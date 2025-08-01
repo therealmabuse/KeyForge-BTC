@@ -1,0 +1,16 @@
+[package]
+name = "keyforge"
+edition = "2024"
+
+[dependencies]
+ctrlc      = "3.2"
+bitcoin    = "0.32.6"
+rand       = "0.8"
+hex        = "0.4"
+chrono     = "0.4"
+num-bigint = "0.4"
+bloom      = "0.3.2"
+sysinfo    = "0.30"
+bip39      = "2.0"
+num_cpus   = "1.16"
+
