@@ -93,15 +93,15 @@ Core Components
 
 📂 Example Output Status
 
-🟢 [Random Thread Status - Thread 3]
-🔑  PrivKey: 4fce94f4ad336bad70cd2a0b8f364b750e34e6fc4dc90f905b914a19d895e700
-📍  P2PKH Compressed: 1RzRCzsYRpRhnV1Bh7FWhDAJYMYqKqg7N
-📍  P2PKH Uncompressed: 1HstJvmiSYFdUAr8wjxTQd5KiLz1FsbNBD
-📍  P2SH: 31x1QCPY9owJy37hTXd3iDyfSmcU1jt8E1
-📍  Bech32: bc1qqju7nftk7e8d5h5wjpmp35gwffyjxc7ujcsw48
-📍  Taproot: bc1pdx0qqukp9hlas2l60yhywar9q354kysy6cq7xgf3v8efmaywp3xslg2l7v
-⚡  Speed: 9802.18 keys/sec
-🔢  Total Keys: 4325839
+🟢 [Random Thread Status - Thread 3]<br>
+🔑  PrivKey: 4fce94f4ad336bad70cd2a0b8f364b750e34e6fc4dc90f905b914a19d895e700<br>
+📍  P2PKH Compressed: 1RzRCzsYRpRhnV1Bh7FWhDAJYMYqKqg7N<br>
+📍  P2PKH Uncompressed: 1HstJvmiSYFdUAr8wjxTQd5KiLz1FsbNBD<br>
+📍  P2SH: 31x1QCPY9owJy37hTXd3iDyfSmcU1jt8E1<br>
+📍  Bech32: bc1qqju7nftk7e8d5h5wjpmp35gwffyjxc7ujcsw48<br>
+📍  Taproot: bc1pdx0qqukp9hlas2l60yhywar9q354kysy6cq7xgf3v8efmaywp3xslg2l7v<br>
+⚡  Speed: 9802.18 keys/sec<br>
+🔢  Total Keys: 4325839<br>
 
 
 📂 Example Output Match
