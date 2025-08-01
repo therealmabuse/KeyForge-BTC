@@ -27,7 +27,8 @@ KeyForge BTC provides a fast and efficient way to scan vast ranges of private ke
 
 # 📂 Project Structure & Function Overview
 
-1. Core Components
+Core Components
+
 🔹 main()
 
     Handles user input (search mode, address types, key range)
@@ -94,19 +95,12 @@ KeyForge BTC provides a fast and efficient way to scan vast ranges of private ke
 
 🟢 [Random Thread Status - Thread 3]
 🔑  PrivKey: 4fce94f4ad336bad70cd2a0b8f364b750e34e6fc4dc90f905b914a19d895e700
-
 📍  P2PKH Compressed: 1RzRCzsYRpRhnV1Bh7FWhDAJYMYqKqg7N
-
 📍  P2PKH Uncompressed: 1HstJvmiSYFdUAr8wjxTQd5KiLz1FsbNBD
-
 📍  P2SH: 31x1QCPY9owJy37hTXd3iDyfSmcU1jt8E1
-
 📍  Bech32: bc1qqju7nftk7e8d5h5wjpmp35gwffyjxc7ujcsw48
-
 📍  Taproot: bc1pdx0qqukp9hlas2l60yhywar9q354kysy6cq7xgf3v8efmaywp3xslg2l7v
-
 ⚡  Speed: 9802.18 keys/sec
-
 🔢  Total Keys: 4325839
 
 
@@ -114,9 +108,7 @@ KeyForge BTC provides a fast and efficient way to scan vast ranges of private ke
 
 *** MATCH FOUND! (Thread 3) ***
   Address Type: P2PKH Compressed
-  
   Address: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
-  
   Private (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreAnchuDf
   
 
