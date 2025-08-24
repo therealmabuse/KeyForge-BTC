@@ -54,7 +54,7 @@ impl Default for AddressOptions {
 
 fn prompt_search_pattern() -> SearchPattern {
     println!("Select search pattern:");
-    println!("  [1] ⚡Random");
+    println!("  [1] ⚡Random (without range restriction)");
     println!("  [2] 🔢Sequential");
     println!("  [3] 📝BIP39 (mnemonics)");
     print!("Enter your choice [1-3]: ");
@@ -616,4 +616,5 @@ fn main() {
         thread::sleep(Duration::from_secs(1));
     }
     println!("All threads stopped.");
+
 }
